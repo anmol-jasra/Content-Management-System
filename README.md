@@ -1,6 +1,11 @@
 # Content-Management-System
-This project is included in the udemy course PHP for Beginners - Become a PHP Master
+This project is included in the udemy course PHP for Beginners - Become a PHP Master.
 course url:- https://www.udemy.com/php-for-complete-beginners-includes-msql-object-oriented/
+
+
+
+
+
 To run this app:
 create a MySQL database and import cms.sql
 edit includes/database.php to add database credentials
